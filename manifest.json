@@ -3,6 +3,9 @@
   "name": "ArXiv Fullname Search Fixer",
   "version": "1.0.0",
   "description": "Fixes arXiv author links to search by full name instead of initials. / arXivの著者リンクをイニシャルではなくフルネーム検索に変更します。",
+  "icons": {
+    "128": "icon.png"
+  },
   "content_scripts": [
     {
       "matches": ["*://arxiv.org/*"],

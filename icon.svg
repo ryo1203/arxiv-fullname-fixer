@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <circle cx="64" cy="64" r="64" fill="#FDFDF9" stroke="#E0E0E0" stroke-width="2"/>
+  
+  <text x="64" y="105" font-size="120" text-anchor="middle" fill="#AB0317" fill-opacity="0.3" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">A</text>
+
+  <line x1="94" y1="94" x2="114" y2="114" stroke="#334455" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="64" cy="64" r="40" fill="none" stroke="#334455" stroke-width="6"/>
+  <circle cx="64" cy="64" r="37" fill="#88AAFF" fill-opacity="0.2"/>
+  
+  <text x="64" y="74" font-size="24" text-anchor="middle" fill="#AB0317" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">ArXiv</text>
+</svg>
