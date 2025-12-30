@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "ArXiv Fullname Search Fixer",
+  "version": "1.0.0",
+  "description": "Fixes arXiv author links to search by full name instead of initials. / arXivの著者リンクをイニシャルではなくフルネーム検索に変更します。",
+  "content_scripts": [
+    {
+      "matches": ["*://arxiv.org/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
